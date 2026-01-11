@@ -1,0 +1,162 @@
+**Problem Statement**
+
+**Singapore HDB Resale Price Analysis (2017–2024)**
+
+**Purpose**
+This document outlines the key business and analytical questions addressed in this project.
+All analysis, KPIs, and dashboards are designed to answer these questions in a clear and actionable way.
+Market Trend & Pricing Questions
+
+**1. How have HDB resale prices changed over time?**
+
+●	Analyze long-term price trends from 2017 to 2024
+
+●	Identify periods of acceleration, slowdown, or volatility
+
+●	Support pricing insights for buyers, sellers, and policymakers
+
+**Metrics Used:**
+
+●	Median resale price
+
+●	Year-over-Year (YoY) growth %
+
+_________________________________________________________________________________
+
+**2.Are recent price increases broad-based or driven by specific segments?**
+
+●	Determine whether growth is consistent across flat types and towns
+
+●	Identify segments contributing disproportionately to price increases
+
+**Metrics Used:**
+
+●	Median resale price by flat type
+
+●	Median resale price by town
+
+**Flat Characteristics & Value Drivers**
+
+_________________________________________________________________________________
+
+**3.How does flat size influence resale prices?**
+●	Assess relationship between floor area and resale price
+
+●	Evaluate value efficiency using standardized metrics
+
+**Metrics Used:**
+
+●	Floor area (sqm)
+
+●	Price per sqft
+
+●	Scatter analysis
+
+_________________________________________________________________________________
+
+**4. Do higher-floor flats command a price premium?**
+
+●	Quantify price differences across floor levels
+
+●	Identify whether the premium varies by town or flat type
+
+**Metrics Used:**
+
+●	Floor rise category
+
+●	Median resale price by floor rise
+
+_________________________________________________________________________________
+**Age, Lease & Value Retention**
+
+**5.How does flat age impact resale value?**
+
+●	Measure depreciation patterns as flats age
+
+●	Identify non-linear price declines
+
+**Metrics Used:**
+
+●	Flat age
+
+●	Flat condition buckets
+
+●	Median resale price by age group
+
+_________________________________________________________________________________
+
+**6. Which flat types retain value better over time?**
+
+●	Compare price retention between newer and older flats
+
+●	Identify resilient flat types
+
+**Metrics Used:**
+
+●	Value Retention Index
+
+●	Flat age × flat type analysis
+
+_________________________________________________________________________________
+
+**Location-Based Analysis**
+
+**7.Which towns command the highest resale prices?**
+
+●	Rank towns based on median resale prices
+
+●	Highlight mature vs non-mature town differences
+
+**Metrics Used:**
+
+●	Median resale price by town
+
+●	Top-N town ranking
+
+_________________________________________________________________________________
+
+**8.Are there significant regional price disparities?**
+
+●	Compare pricing patterns across regions
+
+●	Support region-level filtering and segmentation
+
+**Metrics Used:**
+
+●	Median resale price by region
+
+●	Transaction volume by region
+
+_________________________________________________________________________________
+
+**Market Activity & Volatility**
+
+**9.How does transaction volume relate to price movements?**
+
+●	Examine whether volume changes explain price volatility
+
+●	Prevent misleading interpretation of YoY growth
+
+**Metrics Used:**
+
+●	Total transactions
+
+●	YoY growth %
+
+●	Volume vs growth comparison
+
+_________________________________________________________________________________
+
+**Decision Support Outcomes**
+
+These business questions support:
+
+●	Buyers assessing long-term value
+
+●	Sellers understanding market timing
+
+●	Analysts interpreting price signals correctly
+
+●	Policymakers monitoring resale market health
+
+
